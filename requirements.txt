@@ -1,0 +1,18 @@
+# LLM / Embedding
+ollama
+
+# Vector DB
+chromadb
+
+# PDF manuals
+pypdf
+
+# CSV / Excel trouble cases
+pandas
+openpyxl
+
+# Config management
+python-dotenv
+
+# Simple Web UI
+streamlit
