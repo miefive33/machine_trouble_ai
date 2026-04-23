@@ -1,0 +1,5 @@
+PS C:\Users\nanoa> cd C:\Users\nanoa\Documents\py\machine_trouble_ai
+PS C:\Users\nanoa\Documents\py\machine_trouble_ai> python -m venv .venv
+Python 
+PS C:\Users\nanoa\Documents\py\machine_trouble_ai> .\.venv\Scripts\Activate.ps1
+(.venv) PS C:\Users\nanoa\Documents\py\machine_trouble_ai> streamlit run app/main.py

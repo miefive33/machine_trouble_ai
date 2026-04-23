@@ -16,3 +16,6 @@ python-dotenv
 
 # Simple Web UI
 streamlit
+
+# HTTP client
+requests
